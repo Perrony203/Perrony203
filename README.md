@@ -1,4 +1,4 @@
-## Hola, soy Sebastian 👋
+# Hola, soy Sebastian 👋
 
 Soy ingeniero en mecatrónica y desarrollador de software en progreso.
 
